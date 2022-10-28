@@ -14,7 +14,7 @@ Voor deze opdracht heb ik een lighthouse test gedaan. Dit is de uitkomst:
 
 Kan beter Intratuin!
 
-Er komt onder andere naar voren dat de contrastverhoudingen van achtergrond en voorgrondkleuren niet in orde zijn. Ook hebben sommige linkjes geen herkenbare naam en zijn bepaalde li elementen niet opgenomen in de ul er boven. 
+Er komt onder andere naar voren dat de contrastverhoudingen van achtergrond en voorgrondkleuren niet in orde zijn. Ook hebben sommige linkjes geen herkenbare naam en zijn bepaalde li elementen niet opgenomen in de ul er boven. Lees hier meer over in de Wiki.
 
 
 ## Licentie
