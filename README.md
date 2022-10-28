@@ -1,17 +1,20 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
 
 # WCAG Audit 
 
-Doe een WCAG test op een bestaande website en rapporteer daar over.
+## Intratuin
 
-## Titel Website
+Intratuin is een webshop waar je alles voor je tuin kan kopen. Je kunt er onder andere terecht voor plantjes, gereedschap en meubels. Ook is er inspiratie voor je tuin te vinden en is er informatie over komende workshops. 
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
+![Screenshot (20)](https://user-images.githubusercontent.com/106448490/198570032-9bdadf73-978c-48ba-b8b6-cb00c90726c8.png)
 
-Toon een screenshot van het Lighthouse Accessibility test resultaat.
 
-Schrijf een een samenvatting van de test bevindingen.
+Voor deze opdracht heb ik een lighthouse test gedaan. Dit is de uitkomst:
+
+![Screenshot (21)](https://user-images.githubusercontent.com/106448490/198570266-86d3febd-f913-4be6-83c2-fa36790fafe2.png)
+
+Kan beter Intratuin!
+
+Er komt onder andere naar voren dat de contrastverhoudingen van achtergrond en voorgrondkleuren niet in orde zijn. Ook hebben sommige linkjes geen herkenbare naam en zijn bepaalde li elementen niet opgenomen in de ul er boven. 
 
 
 ## Licentie
